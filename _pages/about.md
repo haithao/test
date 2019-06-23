@@ -1,35 +1,57 @@
 ---
-title: "About"
-permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
+title: About
+layout: post
+permalink: /about/
 ---
 
-Hi, guys! The website you are previewing is a demonstration for Pintereso Jekyll theme and it is hosted on Github pages. There are various ways you can use Pintereso with your Jekyll website. Here are some of them:
+Karna is a Jekyll theme created with pinterest like pins. It is a freemium theme.
 
-- blogging
-- curated resources
-- affiliate marketing
-- resume
-- portfolio
-- photography
+For more themes visit - [**Webjeda Jekyll Themes**](https://blog.webjeda.com/jekyll-themes/){: target="_blank"}
 
-**Features**
+For Jekyll tutorials visit - [**Webjeda**](https://blog.webjeda.com/){: target="_blank"}
 
-- 100% Github Pages Compatibility
-- Bootstrap 4.x
-- SEO Integration
-- Search
-- Categories
-- Prev/Next Post
-- Pagination
-- Disqus Comments
-- Sitemap
-- Feed
-- Formspree Contact Form
-- Pinterest, AddThis, Google Analytics
-- Font Awesome 5+
-- Cookie Consent & Privacy Policy
+Does the theme deserve a star?
 
-Made with <i class="fa fa-heart text-danger"></i> by Sal @wowthemesnet. Thanks for your <a target="_blank" href="https://www.wowthemes.net/freebies-license/">support</a>!
+<a class="github-button" href="https://github.com/sharu725/karna" data-style="mega" data-count-href="/sharu725/karna/stargazers" data-count-api="/repos/sharu725/karna#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/karna on GitHub">Star</a>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
-<a class="btn btn-danger" href="https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/master.zip"><i class="fa fa-download"></i> pintereso.zip</a> <a target="_blank" class="btn btn-warning" href="https://www.wowthemes.net/donate/"><i class="fa fa-coffee"></i> Buy me a coffee?</a>
+**Buy this theme**
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="display: inline-block">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="sharu725@gmail.com">
+<input type="hidden" name="lc" value="IN">
+<input type="hidden" name="item_name" value="Karna Jekyll Theme">
+<input type="hidden" name="item_number" value="karna">
+<input type="hidden" name="button_subtype" value="services">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+<table>
+<tr><td><input type="hidden" name="on0" value="Add ons">Add ons</td></tr><tr><td><select name="os0">
+	<option value="Theme + 3 months support">Theme + 3 months support $12.00 USD</option>
+	<option value="Theme + Installation">Theme + Installation $18.00 USD</option>
+	<option value="Theme + Extended 12 months support">Theme + Extended 12 months support $25.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="option_select0" value="Theme + 3 months support">
+<input type="hidden" name="option_amount0" value="12.00">
+<input type="hidden" name="option_select1" value="Theme + Installation">
+<input type="hidden" name="option_amount1" value="18.00">
+<input type="hidden" name="option_select2" value="Theme + Extended 12 months support">
+<input type="hidden" name="option_amount2" value="25.00">
+<input type="hidden" name="option_index" value="0">
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+[**Demo**]({{site.full-version}}){: target="_blank"}
+
+The premium theme includes the following:
+
+1. Pagination
+2. Share bar on hovering over the pins
+3. Share bar in the article
+4. Different page widths
+5. Support
