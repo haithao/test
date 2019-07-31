@@ -1,10 +1,35 @@
-This is the free version of [Karna Jekyll Theme](http://webjeda.com/karna-full/)
+# Landing Page Jekyll theme
 
-Demo: [http://webjeda.com/karna](http://webjeda.com/karna)
+Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+## How to use
+ - Place a image in `/img/services/`
+ - Create posts to display your services. Use the follow as an example:
 
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+```txt
+---
+layout: default
+img: ipad.png
+category: Services
+title: The service title
+---
+The description of this service
+```
+
+## Demo
+View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+
+===
+
+For more Jekyll details, read [documentation](http://jekyllrb.com/).
+This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+
+## License
+The contents of this repository are licensed under the [Apache
+2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+## Version
+1.0.1
