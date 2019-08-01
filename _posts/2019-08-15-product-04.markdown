@@ -2,7 +2,12 @@
 layout: default
 img: result_pn-04.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: BỘ PHÒNG NGỦ SPRING:<br>Mã sản phẩm: SP-PN-04
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+
+- Giá: 53.500.000 VNĐ
+- Bộ phòng ngủ SPRING được Smartview thiết kế tối ưu đêm đén cho khách hàng một trải nghiệm công năng tốt nhất ở mức giá tốt nhất.
+- Có 3 màu để lựa chọn: Màu gỗ sồi vàng - Màu óc chó đậm - Màu trắng
+- Chất liệu: Gỗ công nghiệp cốt MDF phủ melamine, phụ kiện tiêu chuẩn hoàn thiện theo màu thiết kế
+- Bao gồm nội thất cơ bản như giường ngủ, tủ đầu giường, tủ quần áo, bàn trang điểm, gương soi ... và các hạng mục khác tùy theo nhu cầu sử dụng của khách hàng.
