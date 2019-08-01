@@ -2,9 +2,12 @@
 layout: default
 img: result_pn-02.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: BỘ PHÒNG NGỦ SPRING:<br>Mã sản phẩm: SP-PN-02
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+
+- Giá: 9.500.000 VNĐ
+- Bộ phòng ngủ SPRING được Smartview thiết kế tối ưu đêm đén cho khách hàng một trải nghiệm công năng tốt nhất ở mức giá tốt nhất.
+- Có 3 màu để lựa chọn: Màu gỗ sồi vàng - Màu óc chó đậm - Màu trắng
+- Chất liệu: Gỗ công nghiệp cốt MDF phủ melamine, phụ kiện tiêu chuẩn hoàn thiện theo màu thiết kế
+- Bao gồm nội thất cơ bản như giường ngủ, tủ đầu giường, tủ quần áo, bàn trang điểm, gương soi ... và các hạng mục khác tùy theo nhu cầu sử dụng của khách hàng.
