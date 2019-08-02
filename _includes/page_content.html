@@ -13,8 +13,8 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <div class="lead">					
-					- Giá: {{ post.price }}
-					- Có 3 màu để lựa chọn: {{ post.color }}
+					- Giá: {{ post.price }}<br>
+					- Có 3 màu để lựa chọn: {{ post.color }}<br>
 					- Chất liệu: {{ post.mat }}
 					</div>
                 </div>
@@ -39,7 +39,11 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+					<div class="lead">					
+					- Giá: {{ post.price }}<br>
+					- Có 3 màu để lựa chọn: {{ post.color }}<br>
+					- Chất liệu: {{ post.mat }}
+					</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                   <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
