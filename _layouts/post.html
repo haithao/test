@@ -7,27 +7,13 @@
 
 	{% include navigation.html %}
 	{% include header.html %}
-{{ page.imgs }}
+
     {{ content }}
-	
-	<section class="no-padding" id="two">
-		<div class="container-fluid">
-		<div class="row-no-gutters">
-		{% assign imgs = {{ page.imgs }} | split: ',' %}
-		{% for img in imgs %}
-		   <div class="col-lg-6 col-sm-6 col-md-6"> 
-				<a href="#" class="portfolio-box">
-				<img src="{{site.baseurl}}/assets/img/phong-ngu/{{ img }}" class="image main" alt="">
-				</a>
-			</div>
-		{% endfor %}			
-		</div>
-		</div>
-	</section>
 
 	{% include contact.html %}
 	{% include footer.html %}
 	{% include js.html %}
+	
 </body>
 
 </html>
