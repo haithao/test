@@ -3,9 +3,8 @@ layout: default
 img: result_pn-02.png
 category: Services
 title: BỘ PHÒNG NGỦ SPRING<br>Mã sản phẩm SP-PN-02
+price: 9.500.000 VNĐ
+color: Màu gỗ sồi vàng - Màu óc chó đậm - Màu trắng
+mat: Gỗ công nghiệp cốt MDF phủ melamine, phụ kiện tiêu chuẩn hoàn thiện theo thiết kế
 description: |
 ---
-
-- Giá: 9.500.000 VNĐ
-- Có 3 màu để lựa chọn: Màu gỗ sồi vàng - Màu óc chó đậm - Màu trắng.
-- Chất liệu: Gỗ công nghiệp cốt MDF phủ melamine, phụ kiện tiêu chuẩn hoàn thiện theo thiết kế.
