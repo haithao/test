@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: landing
 img: result_pn-04.png
 category: Services
 title: BỘ PHÒNG NGỦ SPRING<br>Mã sản phẩm SP-PN-04
