@@ -7,5 +7,5 @@ description: |
 ---
 
 - Giá: 9.500.000 VNĐ
-- Có 3 màu để lựa chọn: Màu gỗ sồi vàng - Màu óc chó đậm - Màu trắng
-- Chất liệu: Gỗ công nghiệp cốt MDF phủ melamine, phụ kiện tiêu chuẩn hoàn thiện theo màu thiết kế
+- Có 3 màu để lựa chọn: Màu gỗ sồi vàng - Màu óc chó đậm - Màu trắng.
+- Chất liệu: Gỗ công nghiệp cốt MDF phủ melamine, phụ kiện tiêu chuẩn hoàn thiện theo thiết kế.
